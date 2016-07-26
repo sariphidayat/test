@@ -1,1 +1,2 @@
 status='server'
+db='server'
